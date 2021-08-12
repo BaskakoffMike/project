@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
-new dev content
-=======
-dev.md
->>>>>>> Stashed changes
+# hey
+some update
